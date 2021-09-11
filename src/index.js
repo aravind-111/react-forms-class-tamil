@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './App.css';
 
-import Mai from './App';
+import App from './App';
 
-ReactDOM.render(<Mai />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
